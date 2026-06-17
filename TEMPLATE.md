@@ -1,16 +1,21 @@
 # Master Style Prompt Template
 
-**Artist / Era:** 
+**Artist / Song:** 
 **Genre:** 
-**Tempo / Feel:** 
+**Tempo / BPM:** 
+**Vibe / Energy:** 
+
 **Key Production Elements:**
-- 
-- 
+- Element 1
+- Element 2
 
-**Vocal Style:**
-**Lyrical Tone:**
-**Structure:** Verse / Pre-Chorus / Chorus / Bridge
+**Vocal Delivery:**
+**Lyrical Themes:**
 
-**Full Ready Prompt:**
+**Ready-to-use Prompt:**
 
-"Generate a song in the exact style of [ARTIST] - [SONG]. [Detailed description] ..."
+"[Full detailed prompt here]"
+
+**Variations:**
+- Variation 1
+- Variation 2
